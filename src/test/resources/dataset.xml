@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<dataset>
+    <taxes tax_year="2014/15" min_cap="0" max_cap="10000.0" rate="0"/>
+    <taxes tax_year="2014/15" min_cap="10000.0" max_cap="41865.0" rate="20"/>
+    <taxes tax_year="2014/15" min_cap="41865.0" max_cap="150000.0" rate="40"/>
+    <taxes tax_year="2014/15" min_cap="150000.0" max_cap="200000.0" rate="45"/>
+    <taxes tax_year="2015/16" min_cap="0" max_cap="10600.0" rate="0"/>
+    <taxes tax_year="2015/16" min_cap="10600.0" max_cap="42385.0" rate="20"/>
+    <taxes tax_year="2015/16" min_cap="42385.0" max_cap="150000.0" rate="40"/>
+    <taxes tax_year="2015/16" min_cap="150000.0" max_cap="200000.0" rate="45"/>
+</dataset>
